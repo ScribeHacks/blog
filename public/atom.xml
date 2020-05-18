@@ -3,14 +3,12 @@
     <id>https://scribehacks.tech</id>
     <title>ScribeHacks Blog</title>
     <link href="https://scribehacks.tech" />
-    <updated>2020-05-18T09:28:16.000Z</updated>
-    <category term="test" />
+    <updated>2020-05-18T06:10:35.000Z</updated>
     <entry>
-        <id>https://scribehacks.tech/2020/Test-Post/</id>
-        <title>Test Post</title>
-        <link rel="alternate" href="https://scribehacks.tech/2020/Test-Post/"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Hello this is a test post&lt;br&gt;&lt;/p&gt;&lt;figure class=&#34;highlight csharp hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs csharp&#34;&gt;Console.WriteLine(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Test Post&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;script&gt;
+        <id>https://scribehacks.tech/2020/post/</id>
+        <title>Post</title>
+        <link rel="alternate" href="https://scribehacks.tech/2020/post/"/>
+        <content type="html">&lt;html&gt;&lt;head&gt;&lt;script&gt;
         document.querySelectorAll(&#39;.github-emoji&#39;)
           .forEach(el =&gt; {
             if (!el.dataset.src) { return; }
@@ -28,23 +26,14 @@
             });
             document.body.appendChild(img);
           });
-      &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</content>
-        <category term="test" />
-        <updated>2020-05-18T09:28:16.000Z</updated>
+      &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</content>
+        <updated>2020-05-18T06:10:35.000Z</updated>
     </entry>
     <entry>
-        <id>https://scribehacks.tech/2020/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="https://scribehacks.tech/2020/hello-world/"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;figure class=&#34;highlight bash hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ hexo new &lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Run-server&#34;&gt;&lt;a href=&#34;#Run-server&#34; class=&#34;headerlink&#34; title=&#34;Run server&#34;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;figure class=&#34;highlight bash hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ hexo server&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Generate-static-files&#34;&gt;&lt;a href=&#34;#Generate-static-files&#34; class=&#34;headerlink&#34; title=&#34;Generate static files&#34;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;figure class=&#34;highlight bash hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ hexo generate&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;&lt;a href=&#34;#Deploy-to-remote-sites&#34; class=&#34;headerlink&#34; title=&#34;Deploy to remote sites&#34;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;figure class=&#34;highlight bash hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs bash&#34;&gt;$ hexo deploy&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+        <id>https://scribehacks.tech/2020/Test/</id>
+        <title>Test</title>
+        <link rel="alternate" href="https://scribehacks.tech/2020/Test/"/>
+        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;/p&gt;&lt;figure class=&#34;highlight js hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs js&#34;&gt;ok&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
 &lt;script&gt;
         document.querySelectorAll(&#39;.github-emoji&#39;)
           .forEach(el =&gt; {
@@ -64,6 +53,6 @@
             document.body.appendChild(img);
           });
       &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</content>
-        <updated>2020-05-18T07:14:32.826Z</updated>
+        <updated>2020-05-18T05:52:53.000Z</updated>
     </entry>
 </feed>
