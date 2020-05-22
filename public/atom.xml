@@ -3,56 +3,5 @@
     <id>https://scribehacks.tech</id>
     <title>ScribeHacks Blog</title>
     <link href="https://scribehacks.tech" />
-    <updated>2020-05-18T06:10:35.000Z</updated>
-    <entry>
-        <id>https://scribehacks.tech/2020/post/</id>
-        <title>Post</title>
-        <link rel="alternate" href="https://scribehacks.tech/2020/post/"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement(&#39;img&#39;);
-            img.style = &#39;display:none !important;&#39;;
-            img.src = el.dataset.src;
-            img.addEventListener(&#39;error&#39;, () =&gt; {
-              img.remove();
-              el.style.color = &#39;inherit&#39;;
-              el.style.backgroundImage = &#39;none&#39;;
-              el.style.background = &#39;none&#39;;
-            });
-            img.addEventListener(&#39;load&#39;, () =&gt; {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/head&gt;&lt;body&gt;&lt;/body&gt;&lt;/html&gt;</content>
-        <updated>2020-05-18T06:10:35.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://scribehacks.tech/2020/Test/</id>
-        <title>Test</title>
-        <link rel="alternate" href="https://scribehacks.tech/2020/Test/"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;/p&gt;&lt;figure class=&#34;highlight js hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs js&#34;&gt;ok&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement(&#39;img&#39;);
-            img.style = &#39;display:none !important;&#39;;
-            img.src = el.dataset.src;
-            img.addEventListener(&#39;error&#39;, () =&gt; {
-              img.remove();
-              el.style.color = &#39;inherit&#39;;
-              el.style.backgroundImage = &#39;none&#39;;
-              el.style.background = &#39;none&#39;;
-            });
-            img.addEventListener(&#39;load&#39;, () =&gt; {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</content>
-        <updated>2020-05-18T05:52:53.000Z</updated>
-    </entry>
+    <updated>2020-05-22T05:13:48.049Z</updated>
 </feed>

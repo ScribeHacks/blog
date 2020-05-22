@@ -1,43 +1,48 @@
 @charset "UTF-8";
 body, button, input, select, textarea {
-  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
+  font-family: "Open Sans", monospace, "Microsoft YaHei";
+  font-size: 16px;
+  background-color: #363635;
+  height: 100vh;
+  width: 200vh;
+  color: #CDC5B4; }
 
-a.tag.article-tag {
-  font-size: 0.9rem;
-  text-decoration: none; }
+a, p, section, .navbar, .navbar-main, .container, div, h1, h2, .article-title, .article, .content, .gallery {
+  color: #CDC5B4 !important; }
 
 @media screen and (min-width: 1024px) {
   .container {
     max-width: 800px;
-    width: 800px; }
+    width: 800px;
+    color: #CDC5B4; }
   .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
-    color: #3273dc; } }
+    color: #3273dc;
+    color: #CDC5B4; }
+  .navbar.is-transparent .navbar-dropdown a.navbar-item {
+    color: #CDC5B4; } }
 
 .navbar-main {
-  border-bottom: 1px solid #DFF8EB;
-  transition: 0.1s ease-in; }
+  border-bottom: 1px solid #080F0F;
+  transition: 0.1s ease-in;
+  background-color: #363635;
+  color: #CDC5B4; }
   .navbar-main .navbar-logo {
     font-size: 1.5rem;
-    font-weight: 600; }
+    font-weight: 600;
+    color: #CDC5B4; }
   .navbar-main .navbar-item {
-    text-align: center; }
+    text-align: center;
+    color: #CDC5B4; }
   .navbar-main a.navbar-item.is-active {
     color: #3273dc; }
   .navbar-main .toc .navbar-dropdown {
     max-height: 500px;
-    overflow-y: auto; }
+    overflow-y: auto;
+    color: #CDC5B4; }
 
-.article + .article {
-  padding-top: 2rem;
-  border-top: 1px solid #DFF8EB; }
-
-.article .article-title a,
 .article .article-meta a {
   color: inherit;
   border-bottom: 1px dotted transparent; }
-  .article .article-title a:hover,
-  .article .article-meta a:hover {
-    border-bottom-color: black; }
 
 .article .article-meta {
   font-size: .9rem;
@@ -67,8 +72,9 @@ a.tag.article-tag {
   font-size: .9rem;
   color: darkgray;
   border-bottom: 1px dotted transparent; }
-  .article .article-more-link a:hover {
-    border-bottom-color: darkgray; }
+
+.article figure.highlight.js.hljs {
+  color: red; }
 
 .article .article-nav a {
   color: darkgray;
@@ -195,7 +201,7 @@ a.tag.article-tag {
 .comments {
   margin-top: 3rem;
   padding-top: 3rem;
-  border-top: 1px solid #DFF8EB; }
+  border-top: 1px solid #080F0F; }
   .comments > .title {
     font-weight: 300; }
 
@@ -203,7 +209,7 @@ a.tag.article-tag {
   margin-bottom: 3rem; }
 
 .archive .articles {
-  border-left: 1px solid #DFF8EB; }
+  border-left: 1px solid #080F0F; }
 
 .archive .article {
   border-top: none;
@@ -228,7 +234,7 @@ a.tag.article-tag {
   background: transparent; }
   .footer .content {
     padding-top: 2rem;
-    border-top: 1px solid #DFF8EB; }
+    border-top: 1px solid #080F0F; }
 
 .searchbox {
   display: none; }
@@ -299,7 +305,7 @@ a.tag.article-tag {
 
 code, pre {
   font-size: 0.85rem;
-  font-family: "Source Code Pro", monospace, "Microsoft YaHei"; }
+  font-family: "Open Sans", monospace, "Microsoft YaHei"; }
 
 figure.highlight {
   padding: 0;
@@ -326,7 +332,7 @@ figure.highlight {
     font-size: .8rem; }
     figure.highlight figcaption span {
       font-weight: 500;
-      font-family: "Source Code Pro", monospace, "Microsoft YaHei"; }
+      font-family: "Open Sans", monospace, "Microsoft YaHei"; }
     figure.highlight figcaption a {
       float: right;
       color: #9a9a9a; }
