@@ -3,7 +3,7 @@ uuid: bc3d2fc0-9bd4-11ea-9f57-d31d200e726c
 title: 'Month 1: Planning and Making'
 date: 2020-05-21 19:34:18
 tags:
-hidden: true
+hidden: false
 ---
 
 ## Week 0

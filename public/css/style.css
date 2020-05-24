@@ -2,43 +2,43 @@
 body, button, input, select, textarea {
   font-family: "Open Sans", monospace, "Microsoft YaHei";
   font-size: 16px;
-  background-color: #363635;
-  height: 100vh;
-  width: 200vh;
-  color: #CDC5B4; }
+  background-color: #F8F7F9;
+  height: auto;
+  width: auto;
+  color: #2B2D42; }
 
 a, p, section, .navbar, .navbar-main, .container, div, h1, h2, .article-title, .article, .content, .gallery {
-  color: #CDC5B4 !important; }
+  color: #2B2D42 !important; }
 
 @media screen and (min-width: 1024px) {
   .container {
     max-width: 800px;
     width: 800px;
-    color: #CDC5B4; }
+    color: #2B2D42; }
   .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
     color: #3273dc;
-    color: #CDC5B4; }
+    color: #2B2D42; }
   .navbar.is-transparent .navbar-dropdown a.navbar-item {
-    color: #CDC5B4; } }
+    color: #2B2D42; } }
 
 .navbar-main {
-  border-bottom: 1px solid #080F0F;
+  border-bottom: 1px solid #92DCE5;
   transition: 0.1s ease-in;
-  background-color: #363635;
-  color: #CDC5B4; }
+  background-color: #F8F7F9;
+  color: #2B2D42; }
   .navbar-main .navbar-logo {
     font-size: 1.5rem;
     font-weight: 600;
-    color: #CDC5B4; }
+    color: #2B2D42; }
   .navbar-main .navbar-item {
     text-align: center;
-    color: #CDC5B4; }
+    color: #2B2D42; }
   .navbar-main a.navbar-item.is-active {
     color: #3273dc; }
   .navbar-main .toc .navbar-dropdown {
     max-height: 500px;
     overflow-y: auto;
-    color: #CDC5B4; }
+    color: #2B2D42; }
 
 .article .article-meta a {
   color: inherit;
@@ -201,7 +201,7 @@ a, p, section, .navbar, .navbar-main, .container, div, h1, h2, .article-title, .
 .comments {
   margin-top: 3rem;
   padding-top: 3rem;
-  border-top: 1px solid #080F0F; }
+  border-top: 1px solid #92DCE5; }
   .comments > .title {
     font-weight: 300; }
 
@@ -209,7 +209,7 @@ a, p, section, .navbar, .navbar-main, .container, div, h1, h2, .article-title, .
   margin-bottom: 3rem; }
 
 .archive .articles {
-  border-left: 1px solid #080F0F; }
+  border-left: 1px solid #92DCE5; }
 
 .archive .article {
   border-top: none;
@@ -234,7 +234,7 @@ a, p, section, .navbar, .navbar-main, .container, div, h1, h2, .article-title, .
   background: transparent; }
   .footer .content {
     padding-top: 2rem;
-    border-top: 1px solid #080F0F; }
+    border-top: 1px solid #92DCE5; }
 
 .searchbox {
   display: none; }
