@@ -1,16 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scribehacks.tech</id>
-    <title>ScribeHacks Blog • Posts by &#34;test&#34; tag</title>
+    <title>ScribeHacks Blog • Posts by &#34;hackathon, week, scribehacks&#34; tag</title>
     <link href="https://scribehacks.tech" />
-    <updated>2020-05-18T09:28:16.000Z</updated>
-    <category term="test" />
+    <updated>2020-05-18T05:30:40.000Z</updated>
+    <category term="hackathon, week, scribehacks" />
     <entry>
-        <id>https://scribehacks.tech/2020/Test-Post/</id>
-        <title>Test Post</title>
-        <link rel="alternate" href="https://scribehacks.tech/2020/Test-Post/"/>
-        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Hello this is a test post&lt;br&gt;&lt;/p&gt;&lt;figure class=&#34;highlight csharp hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs csharp&#34;&gt;Console.WriteLine(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Test Post&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;script&gt;
+        <id>https://scribehacks.tech/2020/Week-1-Organizing-and-Making/</id>
+        <title>Week 1: Organizing and Making</title>
+        <link rel="alternate" href="https://scribehacks.tech/2020/Week-1-Organizing-and-Making/"/>
+        <content type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h3 id=&#34;Week-1-of-the-making-of-ScribeHacks&#34;&gt;&lt;a href=&#34;#Week-1-of-the-making-of-ScribeHacks&#34; class=&#34;headerlink&#34; title=&#34;Week 1 of the making of ScribeHacks&#34;&gt;&lt;/a&gt;Week 1 of the making of ScribeHacks&lt;/h3&gt;&lt;script&gt;
         document.querySelectorAll(&#39;.github-emoji&#39;)
           .forEach(el =&gt; {
             if (!el.dataset.src) { return; }
@@ -29,7 +28,7 @@
             document.body.appendChild(img);
           });
       &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</content>
-        <category term="test" />
-        <updated>2020-05-18T09:28:16.000Z</updated>
+        <category term="hackathon, week, scribehacks" />
+        <updated>2020-05-18T05:30:40.000Z</updated>
     </entry>
 </feed>

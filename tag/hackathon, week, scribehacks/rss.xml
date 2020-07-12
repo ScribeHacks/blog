@@ -1,21 +1,20 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>ScribeHacks Blog • Posts by &#34;test&#34; tag</title>
+        <title>ScribeHacks Blog • Posts by &#34;hackathon, week, scribehacks&#34; tag</title>
         <link>https://scribehacks.tech</link>
         <description>ScribeHacks is a highschool hackathon happening on April 17-18, 2021 in the Bay Area.</description>
         <language>en</language>
-        <pubDate>Mon, 18 May 2020 02:28:16 -0700</pubDate>
-        <lastBuildDate>Mon, 18 May 2020 02:28:16 -0700</lastBuildDate>
-        <category>test</category>
+        <pubDate>Sun, 17 May 2020 22:30:40 -0700</pubDate>
+        <lastBuildDate>Sun, 17 May 2020 22:30:40 -0700</lastBuildDate>
+        <category>hackathon, week, scribehacks</category>
         <item>
-            <guid isPermalink="true">https://scribehacks.tech/2020/Test-Post/</guid>
-            <title>Test Post</title>
-            <link>https://scribehacks.tech/2020/Test-Post/</link>
-            <category>test</category>
-            <pubDate>Mon, 18 May 2020 02:28:16 -0700</pubDate>
-            <description><![CDATA[ &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Hello this is a test post&lt;br&gt;&lt;/p&gt;&lt;figure class=&#34;highlight csharp hljs&#34;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs csharp&#34;&gt;Console.WriteLine(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Test Post&amp;quot;&lt;/span&gt;);&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;/p&gt;
-&lt;script&gt;
+            <guid isPermalink="true">https://scribehacks.tech/2020/Week-1-Organizing-and-Making/</guid>
+            <title>Week 1: Organizing and Making</title>
+            <link>https://scribehacks.tech/2020/Week-1-Organizing-and-Making/</link>
+            <category>hackathon, week, scribehacks</category>
+            <pubDate>Sun, 17 May 2020 22:30:40 -0700</pubDate>
+            <description><![CDATA[ &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h3 id=&#34;Week-1-of-the-making-of-ScribeHacks&#34;&gt;&lt;a href=&#34;#Week-1-of-the-making-of-ScribeHacks&#34; class=&#34;headerlink&#34; title=&#34;Week 1 of the making of ScribeHacks&#34;&gt;&lt;/a&gt;Week 1 of the making of ScribeHacks&lt;/h3&gt;&lt;script&gt;
         document.querySelectorAll(&#39;.github-emoji&#39;)
           .forEach(el =&gt; {
             if (!el.dataset.src) { return; }
