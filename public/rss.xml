@@ -5,7 +5,34 @@
         <link>https://scribehacks.tech</link>
         <description>ScribeHacks is a highschool hackathon happening on April 17-18, 2021 in the Bay Area.</description>
         <language>en</language>
-        <pubDate>Fri, 22 May 2020 20:00:44 -0700</pubDate>
-        <lastBuildDate>Fri, 22 May 2020 20:00:44 -0700</lastBuildDate>
+        <pubDate>Thu, 21 May 2020 19:34:18 -0700</pubDate>
+        <lastBuildDate>Thu, 21 May 2020 19:34:18 -0700</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://scribehacks.tech/2020/Month-1-Planning-and-Making/</guid>
+            <title>Month 1: Planning and Making</title>
+            <link>https://scribehacks.tech/2020/Month-1-Planning-and-Making/</link>
+            <pubDate>Thu, 21 May 2020 19:34:18 -0700</pubDate>
+            <description><![CDATA[ &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&#34;Week-0&#34;&gt;&lt;a href=&#34;#Week-0&#34; class=&#34;headerlink&#34; title=&#34;Week 0&#34;&gt;&lt;/a&gt;Week 0&lt;/h2&gt;&lt;p&gt;This week is called Week 0 because it was when the idea was conceived and we made some progress in the hackathon before we waited like 6 months to start working on it for real. During this week, it was just the two team members, me (Kai) and Soham. We decided to start work on the hackathon after we went to another hackathon and was very disappointed in it. We were disappointed in it because we were spoiled by another hackathon, my first hackathon, Los Altos Hacks. We wanted our hackathon to be just as good, so with our tired minds after the hackathon, we quickly made a list of companies to email for sponsors, food, events, and prizes. After that day we barely worked any more on it except for a few times when we just wanted to add like another company onto it.&lt;/p&gt;
+&lt;h2 id=&#34;Week-1-May-13-May-21-2020&#34;&gt;&lt;a href=&#34;#Week-1-May-13-May-21-2020&#34; class=&#34;headerlink&#34; title=&#34;Week 1 (May 13-May 21, 2020)&#34;&gt;&lt;/a&gt;Week 1 (May 13-May 21, 2020)&lt;/h2&gt;&lt;p&gt;After a long hiatus, the Coronavirus quarantine got to us and so did the Elon Musk AMA with Hack Club. Soham messaged me to say that he wanted to work more on our hackathon, so we quickly signed up for the Hack Club Slack like many others. From there it was about another week until we started to work on it. A week passes by, (yes I still count it as the same week because nothing major happened) and we get a Discord Server up and have the team join. It was fairly quick as we had only 7 people on the team at the time, including me and Soham. We then made a GitHub for the hackathon and went straight to work assigning roles for everyone. We already had an idea for each person. We tried to have about 3 people on each team with one head of the team. The first task was put out and it was to make the website, as a head of tech this also included me. I made the design in XD in a day for the front page and the teams page. I asked my team if it was good and they said that it looked good. We went straight to work making the website. The idea was to make it using plain HTML/CSS and JavaScript with a few JS libraries to help us. On the Monday I made the front page and pushed it to GitHub. Another person on tech decided to start working on the the teams page while the last person in my team was tasked was making animations and UI elements. On Tuesday I had the idea to setup a blog for the website as Hack Club has been trying to make sure that it keeps its brand as transparent as possible. We decided that it was a good idea to make a blog not only to be transparent but also track our progress. I set up the blog you see here using Hexo and the minos theme which I tweaked to make it closer to our colors. I published the blog and called it a day. The next day, Wednesday was when the My MLH integration started to happen. I made a dummy app and put a button on the website which led to a success page. This was pretty easy to set up. During this time also, the outreach team made a sign up form for people who wanted to join our team and we invited two more people to join to be educational partners. Also Soham setup a hack club bank and registered for the MLH sponsorship. Thursday is the date I am writing this blog and so far, it seems to be working well. The team seems to have milestones and dates to meet in mind and our team is working hard to meet those.&lt;/p&gt;
+&lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement(&#39;img&#39;);
+            img.style = &#39;display:none !important;&#39;;
+            img.src = el.dataset.src;
+            img.addEventListener(&#39;error&#39;, () =&gt; {
+              img.remove();
+              el.style.color = &#39;inherit&#39;;
+              el.style.backgroundImage = &#39;none&#39;;
+              el.style.background = &#39;none&#39;;
+            });
+            img.addEventListener(&#39;load&#39;, () =&gt; {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      &lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/spoiler.css&#34; type=&#34;text/css&#34;&gt;&lt;script src=&#34;/js/spoiler.js&#34; type=&#34;text/javascript&#34; async&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt; ]]></description>
+        </item>
     </channel>
 </rss>
