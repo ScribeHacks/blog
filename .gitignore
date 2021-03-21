@@ -106,3 +106,4 @@ themes/minos/
 .deploy_git/
 
 .vercel
+.DS_Store
